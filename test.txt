@@ -1,7 +1,8 @@
 Hi, This is file operations dummy file
-lorem ipsum
+lorem ipsum     samsul      alom
 The quick brown fox jumps over the lazy dog.
 Artificial intelligence is transforming the world.
 Data science unlocks insights from complex datasets.
 Mountains stand tall, rivers flow endlessly.
-Creativity fuels innovation and progress.
+Creativity fuels innovation and progress.Sunsets paint the sky with vibrant colors.Technology connects people across the globe.
+Learning new skills opens endless opportunities. Books are windows to different worlds.
